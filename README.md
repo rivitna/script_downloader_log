@@ -1,5 +1,6 @@
 # script_downloader_log  
-Getting URL(s) contained in obfuscated scripts JS/VBS  
+  
+**Getting URL(s) contained in obfuscated scripts JS/VBS**  
 
 Hook API function InternetCrackUrlW and extract URL  
   
